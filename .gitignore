@@ -1,0 +1,23 @@
+# Maven
+target/
+*.ser
+*.ec
+
+# IntelliJ Idea
+.idea
+*.iml
+out
+gen
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+
+# Log
+*.log
+
+/.sts4-cache/
